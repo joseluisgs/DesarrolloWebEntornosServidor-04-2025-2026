@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "bmCPwj9jpDY=",
+  "success": true,
+  "projectFilePath": "c:\\Users\\joseluisgs\\OneDrive - IES Luis Vives\\Docencia\\2DAW-DesarrolloWebServidor\\UD04\\ejemplos\\07-ProductosReactivo\\ProductosReactivo.Console\\ProductosReactivo.Console.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\joseluisgs\\.nuget\\packages\\system.reactive\\6.0.0\\system.reactive.6.0.0.nupkg.sha512",
+    "C:\\Users\\joseluisgs\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.22\\microsoft.netcore.app.ref.8.0.22.nupkg.sha512",
+    "C:\\Users\\joseluisgs\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.22\\microsoft.windowsdesktop.app.ref.8.0.22.nupkg.sha512",
+    "C:\\Users\\joseluisgs\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.22\\microsoft.aspnetcore.app.ref.8.0.22.nupkg.sha512",
+    "C:\\Users\\joseluisgs\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\8.0.22\\microsoft.netcore.app.host.win-x64.8.0.22.nupkg.sha512"
+  ],
+  "logs": []
+}
